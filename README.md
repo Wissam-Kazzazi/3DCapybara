@@ -1,2 +1,2 @@
 # 3DCapybara
-CS 583 3D Game
+The Capybaras led by Alex Huang, Wissam Kazzazi, Diego Lopez, and Jacob Silva proudly present TITLE
