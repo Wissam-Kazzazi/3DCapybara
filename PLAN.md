@@ -2,7 +2,7 @@
 
 ## Game Overview
 
-A first-person horror/comedy game where the player explores a dark map and gets jumpscared by capybaras. The contrast between the cute animal and the horror setting is the core design hook.
+A first-person horror/comedy game where the player explores a dark map as a capybara and gets jumpscared. The contrast between the cute animal and the horror setting is the core design hook.
 
 **Engine:** Unity  
 **Genre:** First-person horror / jumpscare  
