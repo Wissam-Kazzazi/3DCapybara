@@ -79,7 +79,7 @@ Assets/
 - [ ] Create Unity project and push to GitHub
 - [ ] Block out the map (basic geometry, no detail)
 - [ ] Get player movement and mouse-look working
-- [ ] Add basic ambient + point lighting
+- [ ] Add basic ambient + point lighting 
 
 ### Week 2 — Gameplay
 - [ ] Add capybara model/prefab with NavMesh patrol
